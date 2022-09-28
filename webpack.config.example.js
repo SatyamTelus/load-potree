@@ -15,7 +15,7 @@ module.exports = {
   devServer: {
     contentBase: buildPath,
     compress: true,
-    port: 5000,
+    port: 5100,
   },
   stats: 'errors-only',
   resolve: {
